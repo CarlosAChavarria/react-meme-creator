@@ -1,3 +1,7 @@
+# About the proyect
+
+This project is a meme creator app, you can create some memes using any image and you can write text on the top and on the bottom of the image. This is a react app with components of material-ui library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
